@@ -2,7 +2,7 @@
 
 **Project Info**
 
-   This project is a basic GUI simulation with predators and prey. The predators move around in the screen and try to eat the prey. See the info below to understand how the classes interact.
+   This project is a basic GUI simulation with predators and prey. The predators (red squares) move around in the screen and try to eat the prey (randomly colored circles). See the info below to understand how the classes interact.
 
 **Created by: Joshua Groover** 
  - jgroover@gwu.edu
